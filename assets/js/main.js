@@ -1,6 +1,4 @@
-/**
-* Template Name: Personal - v4.7.0
-*/
+
 
 (function () {
   "use strict";
